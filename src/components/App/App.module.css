@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+img {
+  display: flex;
+  margin: 0 auto;
+
+  border-radius: 50%;
+  background-color: #888;
+  width: 50%;
+  height: 50%;
+}
